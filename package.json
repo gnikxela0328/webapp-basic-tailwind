@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "daisyui": "^2.24.0",
+    "node-sass": "^7.0.1",
+    "tailwind": "^4.0.0"
   }
 }
