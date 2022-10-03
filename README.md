@@ -2,7 +2,7 @@
 
 This is a website boilerplate pre-configured with tailwind + daisyUI, an alternative to sass
 
-<img src="https://publicsrv.s3.us-west-2.amazonaws.com/Screenshot+from+2022-10-03+04-40-16.png" height="100%" />
+<img src="https://publicsrv.s3.us-west-2.amazonaws.com/webapp-tailwind-screen" height="100%" />
 An example website layout built in this boilerplate 
 
 ### Getting started
