@@ -1,7 +1,9 @@
+import Hero from "./hero";
+
 const Section = () => {
     return (
-        <div className="h-full bg-[#2f4858]">
-            
+        <div className="flex p-[100px] h-full bg-[#2f4858]">
+            <Hero />
         </div>
     )
 }
